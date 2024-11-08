@@ -1,0 +1,5 @@
+Alumno{nombre=Halley, apPat=Melissa, apMat=Mendoza, cuenta=321254601, edad=19, semestre=3}
+Alumno{nombre=Hiram, apPat=Sanchez, apMat=Saldibar, cuenta=117005558, edad=19, semestre=4}
+Alumno{nombre=Leonel Andres, apPat=Messi, apMat=Cuccitini, cuenta=33224523, edad=36, semestre=2}
+Alumno{nombre=Cristiano Ronaldo, apPat=Dos Santos, apMat=Aveiro, cuenta=321993565, edad=39, semestre=5}
+Alumno{nombre=Neymar, apPat=Da Silva, apMat=Santos, cuenta=118004723, edad=32, semestre=3}
